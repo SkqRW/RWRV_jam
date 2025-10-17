@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.6195652
+Grime: 0.4021739
+Palette: 8
+EffectColorA: 9
+EffectColorB: 21
+Effects: Brightness-0.04347826-20-20, Fog-0.7282609-30-30, LightRain-0.1086956-40-40, DayNight-1-50-50, 
+PlacedObjects: Mushroom><103.1648><308.6366><83~46~2~3, Mushroom><74.92297><304.6496><34~174~2~3, PassiveCorruption><461.567><139.4193><-35~32~-314~-251~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><1173.945><495.9543><-45~25~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, CustomEntranceSymbol><753.5571><392.0529><-4.679504~86~Kill_RainDeer~0, DayNightSettings><454.6787><339.9369><2~144.6602~4~10, 
+FadePalette: 12, 0.7934783
+BackgroundOffset: 2500,326.0869
+BackgroundType: atc_default_saint

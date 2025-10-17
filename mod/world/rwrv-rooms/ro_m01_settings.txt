@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0.2934783
+RainIntensity: 0.09782609
+RumbleIntensity: 0.1086956
+Clouds: 0.6630435
+Grime: 0.07608695
+RandomItemDensity: 0.3043478
+RandomItemSpearChance: 0.1565217
+Palette: 72
+EffectColorA: 9
+Effects: Fog-0.7826087-20-20, Darkness-0.4673913-36-100, 
+PlacedObjects: DangleFruit><1264.371><1154.653><0~0~2~3, DangleFruit><1238.152><1110.13><0~0~2~5, DangleFruit><1216.353><1177.328><0~0~1~3, DangleFruit><1353.843><1169.874><0~0~2~3, Mushroom><1529.644><969.3306><0~0~2~3, Mushroom><1473.068><947.4175><0~0~2~4, Mushroom><1489.237><942.4496><0~0~2~3, 
+FadePalette: 76, 0.423913, 0.423913
+BackgroundOffset: 0,543.4781
+BackgroundType: atc_default_msc

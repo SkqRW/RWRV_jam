@@ -1,0 +1,10 @@
+Template: NONE
+Grime: 0.09782609
+Palette: 72
+EffectColorA: 9
+EffectColorB: 2
+Effects: Contrast-0.1521739-29-18, Brightness-0.1195652-45-68, ModifyEffectColorB-0,0,0.1956522-88-111, Darkness-0.5760869-30-30, 
+PlacedObjects: LightSource><718.0814><502.3575><0.3586957~Environment~174~98~50~86.60254~1~0~None~0~0, WallLight><702.8289><527.8535><248~90~702.8289~527.8535~-154~-199~42~0~219~-196~0~0~0.3478261~False~SkyColor~False~False~Always~Soft, 
+FadePalette: 76, 0.423913
+BackgroundOffset: -217.3913,652.1738
+BackgroundType: atc_default_msc

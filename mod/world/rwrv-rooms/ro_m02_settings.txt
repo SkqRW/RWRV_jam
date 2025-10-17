@@ -1,0 +1,21 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0.3152174
+RainIntensity: 0.1086956
+RumbleIntensity: 0.1086956
+WaveSpeed: 0.5059013
+WaveLength: 0.9970493
+WaveAmplitude: 0.03909628
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.6847826
+Grime: 0.1086956
+RandomItemDensity: 0.3369565
+RandomItemSpearChance: 0.1021738
+Palette: 72
+EffectColorA: 9
+Effects: Fog-0.7826087-20-20, Darkness-0.4673913-21-82, 
+PlacedObjects: LightSource><2606.443><922.5514><1~Environment~0~100~22~-80.39746~1~0~None~0~1, LightSource><2604><1206><1~Environment~0~100~22~-80.39746~1~0~None~0~1, CustomDecal><2761.915><553.1376><82~408~670~314~628~-141~-338~-82.99402~0.326087~1~0~rkskull~0.326087~0.7391304~0.326087~0.7391304~0.326087~0.7391304~0.326087~0.7391304, CustomDecal><2351.927><268.9079><0~777~1367~773~1370~-13~113~-5~0.06521739~1~0.6739131~rust2~0.1630435~1~0.1630435~1~0.1630435~1~0.1630435~1, CustomDecal><1338><266><0~777~1367~773~1370~-13~113~-5~0.06521739~1~0.6739131~rust2~0.1630435~1~0.1630435~1~0.1630435~1~0.1630435~1, CustomDecal><2361><1023><0~777~1367~773~1370~-13~113~-5~0.06521739~1~0.6739131~rust2~0.1630435~1~0.1630435~1~0.1630435~1~0.1630435~1, 
+FadePalette: 76, 0.423913, 0.423913, 0.423913, 0.423913
+BackgroundOffset: 0,652.1738
+BackgroundType: atc_default_msc

@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: FloodAndRain
+WaveSpeed: 0.7128803
+WaveLength: 0.49072
+WaveAmplitude: 0.07423931
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5011145
+Grime: 0.2587231
+Palette: 452
+EffectColorA: 0
+EffectColorB: 8
+Effects: ModifyEffectColorB-0.03711734,0.6113586,0.2123227-1100.847-492.9775, Fog-0.603193-20-20, Flies-0.2041575-24.87747-66.71125, WaterGlowworm-0.705272-275.0262-70.12626, Darkness-0.102079-270.7575-18.90124, Wasp-0.7052718-1097.188-442.3613, RockFlea-0.5011132-1104.018-590.06, 
+PlacedObjects: CustomDecal><2181.915><648.8636><-33~156~145~136~151~-6~-672~-237~0~1~0~besito~0.8~0~0.8~0~0.8~0~0.5~0, CustomEntranceSymbol><302.6887><57.81631><17.32051~-10~Kill_RainDeer~0, LightBeam><279.4421><207.3056><-286~575~-13~580~279~7~152~244~0.4~0~0~1~None~0~0, DeadTokenStalk><1407.36><369.1426><-26~-111, DeadTokenStalk><1444.863><371.3267><-19~-117, DeadTokenStalk><2062.467><410.6973><-40~-99, DeadTokenStalk><1913.692><394.4414><3~-97, DeadTokenStalk><2005.691><425.4412><17~-97, KarmaFlower><2024.667><371.1822><-157~172~5~7, KarmaFlowerPatch><2166.838><342.6176><-192~-26~0.5~-301~102~0.25~0.5, 
+FadePalette: 9, 0.5081658, 0.5081658
+MorePalette0: 13, 0.5081654, 0.5081661, 0.5081661
+MorePalette1: 10, 0.1020786, 0.1020786, 0.1020786
+MorePalette2: 452, 0.2969566, 0.2969566, 0.2969566
