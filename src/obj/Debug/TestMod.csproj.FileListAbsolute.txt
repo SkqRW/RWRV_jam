@@ -1,0 +1,9 @@
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\TestMod.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\TestMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\TestMod.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\TestMod.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\TestMod.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\mod\newest\plugins\TestMod.dll
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\mod\newest\plugins\TestMod.pdb
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\TestMod.dll
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\TestMod.pdb

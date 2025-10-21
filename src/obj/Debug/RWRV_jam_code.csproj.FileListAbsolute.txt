@@ -1,0 +1,9 @@
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\mod\newest\plugins\RWRV_jam_code.dll
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\mod\newest\plugins\RWRV_jam_code.pdb
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\RWRV_jam_code.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\RWRV_jam_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\RWRV_jam_code.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\RWRV_jam_code.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\RWRV_jam_code.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\RWRV_jam_code.dll
+C:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\obj\Debug\RWRV_jam_code.pdb

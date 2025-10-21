@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = RWRV_jam_code
+build_property.ProjectDir = c:\Users\felip\OneDrive\Escritorio\Rw\new\Proyectos\RWRV\src\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
